@@ -1,6 +1,6 @@
 # Bootstrap Tutorial for Beginners
 
-Welcome to the Bootstrap tutorial for beginners! In this tutorial, we'll take you through the fundamentals of Bootstrap, a popular front-end framework that allows you to build responsive and visually appealing web pages quickly and easily.
+Welcome to the Bootstrap content for beginners! In this tutorial,I will take you through the fundamentals of Bootstrap, a popular front-end framework that allows you to build responsive and visually appealing web pages quickly and easily.
 
 ## Table of Contents
 
