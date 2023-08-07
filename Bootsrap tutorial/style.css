@@ -1,0 +1,22 @@
+.container {
+    border: 2px solid black;
+}
+.row {
+    border: 2px solid rgb(255, 31, 154);
+}
+.col {
+    border: 2px solid green;
+}
+.container-fluid {
+    border: 2px solid blue;
+}
+
+.pink {
+background: pink;
+}
+.blue{
+background: blue;
+}
+.orange{
+background: orange;
+}
